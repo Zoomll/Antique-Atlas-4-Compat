@@ -1,0 +1,10 @@
+{
+	"textures": {
+			"antique_atlas:biome/nonland/mushroom/mycelium_mushrooms_huge_red_edge": 2,
+			"antique_atlas:biome/nonland/mushroom/mycelium_mushrooms_huge_mixed_dense": 3,
+            "antique_atlas:biome/woodland/forest/grass_oak_mixed": 4,
+            "antique_atlas:biome/woodland/forest/oak_fancy_mixed": 1,
+            "antique_atlas:biome/woodland/forest/oak_mixed": 1,
+            "antique_atlas:biome/flatland/plains/grass_olive_sparse": 1
+	}
+}

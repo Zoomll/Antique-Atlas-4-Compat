@@ -1,0 +1,8 @@
+{
+    "textures": {
+            "antique_atlas:base/grass": 2,
+            "antique_atlas:biome/flatland/plains/grass_3": 1,
+            "antique_atlas:biome/flatland/plains/fallen_log": 1,
+            "antique_atlas:biome/woodland/taiga/sparse/pine": 2
+    }
+}

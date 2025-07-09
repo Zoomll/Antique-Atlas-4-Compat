@@ -15,7 +15,7 @@ This resourcepack adds modded support for [antique atlas 4](https://modrinth.com
 - [Nature's Spirit](https://modrinth.com/mod/natures-spirit) `// biomes + structures + markers`
 - [Spawn](https://modrinth.com/mod/spawn-mod) `// biome`
 - [Terralith](https://modrinth.com/datapack/terralith) `// biomes`
-- [Vanille Backport](https://modrinth.com/mod/vanillabackport) `pale_oak biome`
+- [Vanilla Backport](https://modrinth.com/mod/vanillabackport) `pale_oak biome`
 
 <center>
 

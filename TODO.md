@@ -21,6 +21,17 @@
 - Grimwoods `// couldn't find biome ingame`
 - Hot Springs `// couldn't find biome ingame`
 
+# Biomes O Plenty
+
+## BIOMES
+
+- Bayou
+- Crystalline Chasm
+- End Corruption
+- End Reef
+- End Wilds
+- Erupting Inferno
+
 # Nature's Spirit
 
 ## STRUCTURES
